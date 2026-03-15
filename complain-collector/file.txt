@@ -1,0 +1,14 @@
+complain-collector/
+├── index.html
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── tailwind.config.js
+├── postcss.config.js
+└── src/
+    ├── main.tsx (You need to create this)
+    ├── App.tsx (Code I gave you)
+    ├── components/ (Files I gave you)
+    ├── utils/ (Files I gave you)
+    ├── constants/ (Files I gave you)
+    └── types/ (Files I gave you)
